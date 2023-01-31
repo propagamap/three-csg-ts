@@ -1,7 +1,7 @@
 {
-  "name": "three-csg-ts",
-  "version": "3.1.11",
-  "description": "CSG library for use with THREE.js",
+  "name": "@propagamap/three-csg-ts",
+  "version": "1.0.0",
+  "description": "Temporal fix (CSG library for use with THREE.js)",
   "main": "lib/cjs/index.js",
   "module": "lib/esm/index.js",
   "types": "lib/esm/index.d.ts",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/samalexander/three-csg-ts.git"
+    "url": "git+https://github.com/propagamap/three-csg-ts.git"
   },
   "keywords": [
     "three",
@@ -30,9 +30,9 @@
   "author": "Sam Alexander",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/samalexander/three-csg-ts/issues"
+    "url": "https://github.com/propagamap/three-csg-ts/issues"
   },
-  "homepage": "https://github.com/samalexander/three-csg-ts#readme",
+  "homepage": "https://github.com/propagamap/three-csg-ts#readme",
   "devDependencies": {
     "@types/jest": "^27.0.1",
     "@types/node": "^14.14.45",
